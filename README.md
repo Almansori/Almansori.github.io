@@ -19,7 +19,7 @@ const sourabh: Array<Ingredient> = [
 
 - 🌱 I’m currently learning **Node.js**
 
-- ⚡ Check my **[Portfolio](https://Almansori.github.io)** to get to know me a little better. 
+- ⚡ Check my **[Linkedin](https://www.linkedin.com/in/moha-almansori-1530a5ab/)** to get to know me a little better. 
   
 - 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/105VJsCOoCLMuWya__VwneTdDtgwMNval/view?usp=drive_link)**
   
