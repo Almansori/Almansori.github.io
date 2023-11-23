@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Moha</h1>
 <h3 align= "center"> (but you can also call me) </h3>
-<h2 align="center">Your Friendly Neighbourhood Procrastinator from Jeddah, Saudi Arabia.</h2>
+<h2 align="center">Your Friendly Web Developer.</h2>
 
 ```
 const sourabh: Array<Ingredient> = [
