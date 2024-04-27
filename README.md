@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Moha</h1>
 <h3 align= "center"> (but you can also call me) </h3>
-<h2 align="center">Your Friendly Web Developer.</h2>
+<h2 align="center">Your Friendly Software Engineer.</h2>
 
 ```
 const sourabh: Array<Ingredient> = [
@@ -11,7 +11,7 @@ const sourabh: Array<Ingredient> = [
 ];
 
 ```
-<!-- <h3 align="center">Currently a Web Developer</h3> -->
+<!-- <h3 align="center">Currently a Software Engineer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
