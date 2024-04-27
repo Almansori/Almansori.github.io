@@ -21,7 +21,7 @@ const sourabh: Array<Ingredient> = [
 
 - ⚡ Check my **[Linkedin](https://www.linkedin.com/in/moha-almansori-1530a5ab/)** to get to know me a little better. 
   
-- 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/105VJsCOoCLMuWya__VwneTdDtgwMNval/view?usp=drive_link)**
+- 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/1_GR4Z-T0kxg12olZgpun3qR7Dtn5BaPw/view?usp=drive_link)**
   
 - 📫 How to reach me? Drop me a mail at **m_3212002@hotmail.com**
 
