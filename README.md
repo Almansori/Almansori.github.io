@@ -39,12 +39,4 @@ const sourabh: Array<Ingredient> = [
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 
 
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golemvincible&show_icons=true&locale=en&layout=compact"
-
-
-
-
-</p>
-<br/>
