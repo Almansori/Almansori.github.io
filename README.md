@@ -1,8 +1,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Moha</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Almansori</h1>
 <h3 align= "center"> (but you can also call me) </h3>
-<h2 align="center">Your Friendly Software Engineer.</h2>
+<h2 align="center">Your Friendly Full-Stack Web & App Developer.</h2>
 
 ```
 const sourabh: Array<Ingredient> = [
@@ -21,7 +21,7 @@ const sourabh: Array<Ingredient> = [
 
 - ⚡ Check my **[Linkedin](https://www.linkedin.com/in/moha-almansori-1530a5ab/)** to get to know me a little better. 
   
-- 🖥 Want to hire me? **[My Resume](https://drive.google.com/file/d/1_GR4Z-T0kxg12olZgpun3qR7Dtn5BaPw/view?usp=drive_link)**
+- 🖥 Want to hire me? **[My Resume]([https://drive.google.com/file/d/1_GR4Z-T0kxg12olZgpun3qR7Dtn5BaPw/view?usp=drive_link](https://drive.google.com/file/d/1y38UbTfrFymwo9xrdyAOehA8xDmwoGEJ/view?usp=sharing))**
   
 - 📫 How to reach me? Drop me a mail at **m_3212002@hotmail.com**
 
